@@ -1,0 +1,6 @@
+pytz
+cryptography
+requests
+botocore
+botocore[crt]
+
